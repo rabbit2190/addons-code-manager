@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://addons-code-manager.cdn.mozilla.net/main.css",
+    "main.js": "https://addons-code-manager.cdn.mozilla.net/main.76c1e98ddc185d580875.bundle.js",
+    "main.css.map": "https://addons-code-manager.cdn.mozilla.net/main.css.map",
+    "main.js.map": "https://addons-code-manager.cdn.mozilla.net/main.76c1e98ddc185d580875.bundle.js.map",
+    "runtime~main.js": "https://addons-code-manager.cdn.mozilla.net/runtime~main.76c1e98ddc185d580875.bundle.js",
+    "runtime~main.js.map": "https://addons-code-manager.cdn.mozilla.net/runtime~main.76c1e98ddc185d580875.bundle.js.map",
+    "vendors~main.css": "https://addons-code-manager.cdn.mozilla.net/vendors~main.css",
+    "vendors~main.js": "https://addons-code-manager.cdn.mozilla.net/vendors~main.76c1e98ddc185d580875.bundle.js",
+    "vendors~main.css.map": "https://addons-code-manager.cdn.mozilla.net/vendors~main.css.map",
+    "vendors~main.js.map": "https://addons-code-manager.cdn.mozilla.net/vendors~main.76c1e98ddc185d580875.bundle.js.map",
+    "iframe.html": "https://addons-code-manager.cdn.mozilla.net/iframe.html",
+    "precache-manifest.04d8ef87b018e3b64ba8560662562b37.js": "https://addons-code-manager.cdn.mozilla.net/precache-manifest.04d8ef87b018e3b64ba8560662562b37.js",
+    "service-worker.js": "https://addons-code-manager.cdn.mozilla.net/service-worker.js"
+  },
+  "entrypoints": [
+    "runtime~main.76c1e98ddc185d580875.bundle.js",
+    "vendors~main.css",
+    "vendors~main.76c1e98ddc185d580875.bundle.js",
+    "main.css",
+    "main.76c1e98ddc185d580875.bundle.js"
+  ]
+}
